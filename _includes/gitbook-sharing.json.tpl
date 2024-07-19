@@ -10,12 +10,12 @@
                 "github_link": "https://github.com",
               {% endif %}
 
-                "telegram": false,
+                "telegram": true,
                 "telegram_link": "https://t.me",
 
                 "instapaper": false,
 
-                "twitter": true,
+                "twitter": false,
               {% if site.twitter_username %}
                 "twitter_link": "https://twitter.com/{{ site.twitter_username }}",
               {% endif %}
