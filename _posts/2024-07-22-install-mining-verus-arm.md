@@ -7,6 +7,8 @@ summary: "Tutorial cara install dan penggunaan mining verus."
 tags: [mining]
 ---
 
+![Ccminer Verus](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfdrIFY4c0FJHoy-IijdQ88inENufgm6kui8s3SiS2HVwv_By-xnfIE00&s=10)
+
 Bacalah secara menyeluruh sebelum menggunakan
 
 ## Informasi Umum Penting
