@@ -18,25 +18,16 @@ Pada halaman ini saya hanya akan memperkenalkan kepada anda semua untuk selalu m
 
 Anda bisa melihat tata aturan yang berlaku melalui [disini](/privacy-policy)
 
-### 1. Biodata
+### Biodata
 
+<pre>
 Nama : Muhammad Yusuf
 Kelahiran: 1991
 Asal: Kecamatan Gambut
 Propinsi: Kalimantan Selatan
+</pre>
 
-### 2. Kontak
-
-- [Telegram](https://t.me/masterwifinetworksolution)
-- [Whatsapp](https://wa.me/6287764241047)
-- [Messenger](https://m.me/muhammadyusuf1992)
-
-### 3. Groups
-
-- [Telegram Groups](https://t.me/+HUPmiH4JI0AwZDVl)
-- [Facebook](https://facebook.com/groups/openclashpasswallindonesia)
-
-### 4. Layanan & Jasa
+### Layanan & Jasa
 
 - Melayani perakitan antena wifi dan gsm.
 - Melayani perakitan RT RW Net.

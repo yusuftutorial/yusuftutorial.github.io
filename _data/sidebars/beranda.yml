@@ -35,11 +35,31 @@ entries:
     - title: Disclaimer
       url: /disclaimer.html
       output: web, pdf
+    
+    - title: Terms and Conditions
+      url: /terms_and_conditions.html
+      output: web, pdf
 
     - title: About
       url: /about.html
       output: web, pdf
-
+    
+    - title: Contact
+      url: /contact.html
+      output: web, pdf
+    
     - title: Support
       url: /support.html
+      output: web, pdf
+
+  - title: Blog
+    output: web, pdf
+    folderitems:
+
+    - title: Blog Post
+      url: /blog.html
+      output: web, pdf
+    
+    - title: Arsip Blog
+      url: /sitemap.html
       output: web, pdf

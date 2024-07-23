@@ -1,8 +1,8 @@
 ---
-title: "News"
-tagName: news
+title: "Blog"
+tagName: blog
 search: exclude
-permalink: tag_news.html
+permalink: tag_blog.html
 sidebar: mydoc_sidebar
 folder: tags
 ---
