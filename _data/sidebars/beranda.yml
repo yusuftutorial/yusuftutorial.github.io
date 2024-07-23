@@ -63,3 +63,32 @@ entries:
     - title: Arsip Blog
       url: /sitemap.html
       output: web, pdf
+
+      subfolders:
+      - title: Label Post
+        output: web
+        subfolderitems:
+        
+        - title: Mining
+          url: /tag_mining.html
+          output: web
+        
+        - title: OpenWRT
+          url: /tag_openwrt.html
+          output: web
+        
+        - title: VPN
+          url: /tag_vpn.html
+          output: web
+        
+        - title: Mikrotik
+          url: /tag_mikrotik.html
+          output: web
+        
+        - title: Modem
+          url: /tag_modem.html
+          output: web
+        
+        - title: Router
+          url: /tag_router.html
+          output: web

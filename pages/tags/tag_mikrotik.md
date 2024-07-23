@@ -1,8 +1,8 @@
 ---
-title: "Navigation pages"
-tagName: navigation
+title: "Mikrotik"
+tagName: mikrotik
 search: exclude
-permalink: tag_navigation.html
+permalink: tag_mikrotik.html
 sidebar: mydoc_sidebar
 folder: tags
 ---

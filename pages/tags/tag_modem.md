@@ -1,8 +1,8 @@
 ---
-title: "Publishing pages"
-tagName: publishing
+title: "Modem"
+tagName: modem
 search: exclude
-permalink: tag_publishing.html
+permalink: tag_modem.html
 sidebar: mydoc_sidebar
 folder: tags
 ---

@@ -1,8 +1,8 @@
 ---
-title: "Formatting pages"
-tagName: formatting
+title: "Router"
+tagName: router
 search: exclude
-permalink: tag_formatting.html
+permalink: tag_router.html
 sidebar: mydoc_sidebar
 folder: tags
 ---

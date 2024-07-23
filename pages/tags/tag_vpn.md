@@ -1,8 +1,8 @@
 ---
-title: "Mobile Pages"
+title: "VPN"
+tagName: vpn
 search: exclude
-tagName: mobile
-permalink: tag_mobile.html
+permalink: tag_vpn.html
 sidebar: mydoc_sidebar
 folder: tags
 ---
