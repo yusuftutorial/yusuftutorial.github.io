@@ -4,7 +4,7 @@ published: true
 categories: openclash
 permalink: backup-openclash-simaster.html
 summary: "Tutorial cara backup clash di openwrt."
-tags: [clash]
+tags: [vpn]
 ---
 
 Tutorial backup `clash` file `simaster` di `openwrt` ini sangat sederhana dan cocok untuk `openwrt` versi `23.05.0`.
