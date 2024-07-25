@@ -23,9 +23,9 @@ got to interface and check interface docker to firewall docker check.
 
 go to docker hub and click search andarezta and go to tags to copy A53 pull command.
 
-step 4
+## step 4
 
-## go to terminal openwrt and paste pull command, please wait download and extract image to docker
+go to terminal openwrt and paste pull command, please wait download and extract image to docker
 
 ## step 5
 
