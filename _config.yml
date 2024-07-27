@@ -117,5 +117,9 @@ description: "Intended as a documentation theme based on Jekyll for technical wr
 
 github: [metadata]
 
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+
 
 # Copyright 2021 Google LLC
